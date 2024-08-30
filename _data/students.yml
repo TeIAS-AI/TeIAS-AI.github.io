@@ -1,11 +1,37 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Sina Abbassi Shanbehbazari
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Pilehvar at TeIAS
+
+- name: Faezeh Hosseini Faraji
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Yaghoobzadeh at TeIAS
+
+- name: Seyed Mohammadreza Moddaress
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Pilehvar at TeIAS
+
+- name: Armin Torjmehr
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Yaghoobzadeh at TeIAS
+
+- name: Melika Nounakhtian
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Yaghoobzadeh at TeIAS
+
 
 
