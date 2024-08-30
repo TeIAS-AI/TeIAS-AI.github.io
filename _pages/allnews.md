@@ -1,9 +1,9 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "LLMs Lab at TeIAS."
 sitemap: false
-permalink: /allnews.html
+permalink: /teias.isntitute
 ---
 
 # News
