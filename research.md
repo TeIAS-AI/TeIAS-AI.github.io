@@ -1,46 +1,29 @@
 ---
-title: "Allan Lab - Research"
+title: "Research - LLMs Lab"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "LLMs Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Overview
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our lab is at the cutting edge of Large Language Models (LLMs) research, focusing on both foundational and applied aspects of these transformative AI technologies. Our research spans several critical domains, aiming to push the boundaries of what LLMs can achieve while ensuring their safe, transparent, and ethical deployment.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+**Adversarial Robustness and Security of LLMs** In an era where AI systems are increasingly integrated into critical applications, the robustness and security of these models are paramount. We are pioneering research into the adversarial robustness of generative models, investigating how LLMs can be fortified against manipulation and adversarial attacks. Our work explores advanced techniques to detect, mitigate, and defend against these vulnerabilities, ensuring that LLMs are not only powerful but also resilient and trustworthy in real-world applications.
 
-Here are some themes and techniques that we currently work on:
+**Semantic Representation and Lexical Semantics** Understanding and improving how LLMs represent meaning is central to our research. We delve deep into semantic representation, focusing on how these models can better capture the nuances of human language. Our efforts in lexical semantics aim to bridge the gap between human cognitive processes and machine understanding, enhancing the ability of LLMs to process and generate language that is contextually accurate and meaningful. This research has wide-reaching implications, from improving Natural Language Processing (NLP) systems to enabling more intuitive human-computer interactions.
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Interpretability and Scalability of LLMs** As LLMs grow in complexity and capability, their interpretability becomes increasingly crucial. We are developing methods to make these models more transparent, enabling researchers and users alike to understand how decisions and predictions are made. Our research in scalability addresses the challenges of training and deploying large models, focusing on optimizing performance without compromising interpretability. We are committed to advancing AI systems that are not only efficient and powerful but also explainable and accessible.
 
+**Ethics and AI Governance** The rapid development of AI technologies, particularly LLMs, raises significant ethical and governance challenges. Our research extends into the ethical implications of AI, exploring frameworks and guidelines for responsible AI development and deployment. We are particularly interested in the societal impact of LLMs, working to ensure that these technologies are used in ways that are fair, inclusive, and beneficial to all. By integrating ethical considerations into our research, we aim to contribute to the creation of AI systems that uphold the highest standards of responsibility and integrity.
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+**Interdisciplinary Collaboration and Innovation** Our research environment fosters interdisciplinary collaboration, drawing on expertise from linguistics, computer science, cognitive science, and beyond. We actively engage with the broader scientific community, collaborating with leading institutions and researchers worldwide. Through these partnerships, we exchange ideas and insights that drive our research forward, from theoretical innovations to practical applications. Our commitment to interdisciplinary dialogue ensures that our research not only advances the field of AI but also has meaningful, real-world impact.
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+**Ongoing and Future Projects** Our lab is continuously exploring new frontiers in LLMs and AI research. Current projects include:
+- Developing advanced adversarial testing frameworks for generative models.
+- Investigating novel methods for enhancing the semantic understanding of LLMs.
+- Creating scalable architectures that balance performance with transparency.
+- Exploring the ethical implications of LLM deployment in various industries.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
-
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-### ... and more.
+We are excited about the future of LLMs and the potential they hold for transforming how we interact with technology and each other. Our lab remains dedicated to advancing the state-of-the-art in AI, with a focus on creating robust, reliable, and ethically sound language technologies.

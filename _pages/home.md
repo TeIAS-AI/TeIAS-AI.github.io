@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 
-As a dynamic research group, we are excited to engage with the broader scientific community in our quest to unravel the complexities of language processing through innovative methodologies. Our commitment extends beyond theoretical exploration; we are actively developing advanced tools and techniques to enhance the functionality and applicability of LLMs. By fostering collaborations with leading institutions and researchers, we aim to exchange ideas and insights that drive our understanding forward. Our research environment is rich with interdisciplinary dialogue, where cutting-edge studies intersect with practical applications, ultimately paving the way for significant advancements in artificial intelligence and its integration into various domains. We look forward to contributing to the evolving landscape of AI technologies and their impact on society.
+<p>As a dynamic research group, we are excited to engage with the broader scientific community in our quest to unravel the complexities of language processing through innovative methodologies. Our commitment extends beyond theoretical exploration; we are actively developing advanced tools and techniques to enhance the functionality and applicability of LLMs. By fostering collaborations with leading institutions and researchers, we aim to exchange ideas and insights that drive our understanding forward. Our research environment is rich with interdisciplinary dialogue, where cutting-edge studies intersect with practical applications, ultimately paving the way for significant advancements in artificial intelligence and its integration into various domains. We look forward to contributing to the evolving landscape of AI technologies and their impact on society.</p>
 
 
 
