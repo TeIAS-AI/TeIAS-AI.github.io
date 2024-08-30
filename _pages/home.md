@@ -1,5 +1,5 @@
 ---
-title: "LLMs Lab - Home"
+title: "Home - LLMs Lab"
 layout: homelay
 excerpt: "LLMs Lab at TeIAS."
 sitemap: true
