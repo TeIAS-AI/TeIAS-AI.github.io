@@ -1,8 +1,8 @@
 - date: June 2024
   headline: Dr. Pilehvar will be a Program Co-Chair of [ACL 2025](https://2025.aclweb.org).
 
-- date: May 2024
-  headline: New Publicly-Detectable Watermarking for LLMs unveiled [arXiv](https://arxiv.org/abs/2310.18491#).
+# - date: May 2024
+#   headline: New Publicly-Detectable Watermarking for LLMs unveiled [arXiv](https://arxiv.org/abs/2310.18491#).
 
 - date: April 2024
   headline: Study benchmarks ChatGPT and other LLMs for Persian [LREC-COLING 2024](https://arxiv.org/abs/2404.02403).  ![image](/images/newspic/Persian-LLMs-Bench.png){:class="img-responsive"}

@@ -20,15 +20,15 @@
   highlight: 1
   news1:
 
-- title: "Publicly-Detectable Watermarking for Language Models"
-  image: Publicly-Detectable.png
-  description: "We present a highly detectable, trustless watermarking scheme for LLMs: the detection algorithm contains no secret information, and it is executable by anyone. We embed a publicly-verifiable cryptographic signature into LLM output using rejection sampling. We prove that our scheme is cryptographically correct, sound, and distortion-free. We make novel uses of error-correction techniques to overcome periods of low entropy, a barrier for all prior watermarking schemes. We implement our scheme and make empirical measurements over open models in the 2.7B to 70B parameter range. Our experiments suggest that our formal claims are met in practice."
-  authors: "Jaiden Fairoze, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, **Mohammad Mahmoody**, Mingyuan Wang"
-  link:
-    url: https://arxiv.org/abs/2310.18491
-    display: arXiv
-  highlight: 1
-  news1: 
+# - title: "Publicly-Detectable Watermarking for Language Models"
+#   image: Publicly-Detectable.png
+#   description: "We present a highly detectable, trustless watermarking scheme for LLMs: the detection algorithm contains no secret information, and it is executable by anyone. We embed a publicly-verifiable cryptographic signature into LLM output using rejection sampling. We prove that our scheme is cryptographically correct, sound, and distortion-free. We make novel uses of error-correction techniques to overcome periods of low entropy, a barrier for all prior watermarking schemes. We implement our scheme and make empirical measurements over open models in the 2.7B to 70B parameter range. Our experiments suggest that our formal claims are met in practice."
+#   authors: "Jaiden Fairoze, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, **Mohammad Mahmoody**, Mingyuan Wang"
+#   link:
+#     url: https://arxiv.org/abs/2310.18491
+#     display: arXiv
+#   highlight: 1
+#   news1: 
 
 - title: "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition"
   image: DecompX.png

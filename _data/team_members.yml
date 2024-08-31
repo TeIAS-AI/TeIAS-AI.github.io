@@ -1,10 +1,10 @@
-- name: Mohammad Mahmoody
-  photo: Mohammad.jpeg
-  info: Associate Professor, started Aug. 2023
-  email: mohammad@virginia.edu
-  number_educ: 2
-  education1: Postdoc with [Rafael Pass](https://sites.google.com/view/rafaelpass) at Cornell University
-  education2: Ph.D. with [Boaz Barak](https://www.boazbarak.org) at Princeton University
+# - name: Mohammad Mahmoody
+#   photo: Mohammad.jpeg
+#   info: Associate Professor, started Aug. 2023
+#   email: mohammad@virginia.edu
+#   number_educ: 2
+#   education1: Postdoc with [Rafael Pass](https://sites.google.com/view/rafaelpass) at Cornell University
+#   education2: Ph.D. with [Boaz Barak](https://www.boazbarak.org) at Princeton University
 
 - name: Mohammad Taher Pilehvar
   photo: Taher.jpg
