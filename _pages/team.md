@@ -193,4 +193,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ### Administrative Support
-<a href="mailto:m.akbar.tajari@gmail.com">Mr. Akbari</a> is helping us with administration.
+<a href="mailto:m.x@gmail.com">Mr. x</a> is helping us with administration.
