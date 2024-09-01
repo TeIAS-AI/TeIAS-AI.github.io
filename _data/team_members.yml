@@ -6,14 +6,6 @@
 #   education1: Postdoc with [Rafael Pass](https://sites.google.com/view/rafaelpass) at Cornell University
 #   education2: Ph.D. with [Boaz Barak](https://www.boazbarak.org) at Princeton University
 
-- name: Mohammad Taher Pilehvar
-  photo: Taher.jpg
-  info: Assistant Professor, started Apr. 2019
-  email: mp792@cam.ac.uk
-  number_educ: 2
-  education1: Postdoc with [Nigel Collier](https://sites.google.com/site/nhcollier) at the University of Cambridge
-  education2: Ph.D. with [Roberto Navigli](https://www.diag.uniroma1.it/navigli) at the Sapienza University of Rome
-
 - name: Yadollah Yaghoobzadeh
   photo: Yadollah.jpg
   info: Assistant Professor, started Sep. 2023
@@ -21,6 +13,14 @@
   number_educ: 2
   education1: Senior Researcher at [Microsoft Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal)
   education2: Ph.D. with [Hinrich Schütze](https://hessian.ai/people/hinrich-schutze) at the University of Munich (LMU)
+
+- name: Mohammad Taher Pilehvar
+  photo: Taher.jpg
+  info: Assistant Professor, started Apr. 2019
+  email: mp792@cam.ac.uk
+  number_educ: 2
+  education1: Postdoc with [Nigel Collier](https://sites.google.com/site/nhcollier) at the University of Cambridge
+  education2: Ph.D. with [Roberto Navigli](https://www.diag.uniroma1.it/navigli) at the Sapienza University of Rome
 
 # - name: Tjerk Benschop
 #   photo: tjeruk.jpg
