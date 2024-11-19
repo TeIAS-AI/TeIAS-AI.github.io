@@ -6,7 +6,9 @@ sitemap: true
 permalink: /
 ---
 
-<p>At the forefront of Large Language Models (LLMs) research, our lab is dedicated to advancing the capabilities and understanding of these transformative AI technologies. Our work spans several critical domains, including the adversarial robustness of generative models, ensuring that LLMs are not only powerful but also resilient to manipulation and adversarial attacks. We are also pioneering research in semantic representation and lexical semantics, striving to bridge the gap between human language and machine understanding. Furthermore, our investigations delve deep into the interpretability and scalability of LLMs, aiming to make AI systems more transparent and trustworthy. Through our interdisciplinary approach, we are shaping the future of AI, making strides toward more robust, reliable, and ethically sound language technologies.</p>
+<p></p>
+
+<!-- <p>At the forefront of Large Language Models (LLMs) research, our lab is dedicated to advancing the capabilities and understanding of these transformative AI technologies. Our work spans several critical domains, including the adversarial robustness of generative models, ensuring that LLMs are not only powerful but also resilient to manipulation and adversarial attacks. We are also pioneering research in semantic representation and lexical semantics, striving to bridge the gap between human language and machine understanding. Furthermore, our investigations delve deep into the interpretability and scalability of LLMs, aiming to make AI systems more transparent and trustworthy. Through our interdisciplinary approach, we are shaping the future of AI, making strides toward more robust, reliable, and ethically sound language technologies.</p> -->
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,7 +55,9 @@ permalink: /
 </div>
 
 
-<p>As a dynamic research group, we are excited to engage with the broader scientific community in our quest to unravel the complexities of language processing through innovative methodologies. Our commitment extends beyond theoretical exploration; we are actively developing advanced tools and techniques to enhance the functionality and applicability of LLMs. By fostering collaborations with leading institutions and researchers, we aim to exchange ideas and insights that drive our understanding forward. Our research environment is rich with interdisciplinary dialogue, where cutting-edge studies intersect with practical applications, ultimately paving the way for significant advancements in artificial intelligence and its integration into various domains. We look forward to contributing to the evolving landscape of AI technologies and their impact on society.</p>
+
+<p></p>
+<!-- <p>As a dynamic research group, we are excited to engage with the broader scientific community in our quest to unravel the complexities of language processing through innovative methodologies. Our commitment extends beyond theoretical exploration; we are actively developing advanced tools and techniques to enhance the functionality and applicability of LLMs. By fostering collaborations with leading institutions and researchers, we aim to exchange ideas and insights that drive our understanding forward. Our research environment is rich with interdisciplinary dialogue, where cutting-edge studies intersect with practical applications, ultimately paving the way for significant advancements in artificial intelligence and its integration into various domains. We look forward to contributing to the evolving landscape of AI technologies and their impact on society.</p> -->
 
 
 
