@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research Overview
 
-Our lab is at the cutting edge of Large Language Models (LLMs) research, focusing on both foundational and applied aspects of these transformative AI technologies. Our research spans several critical domains, aiming to push the boundaries of what LLMs can achieve while ensuring their safe, transparent, and ethical deployment.
+<!-- Our lab is at the cutting edge of Large Language Models (LLMs) research, focusing on both foundational and applied aspects of these transformative AI technologies. Our research spans several critical domains, aiming to push the boundaries of what LLMs can achieve while ensuring their safe, transparent, and ethical deployment.
 
 **Adversarial Robustness and Security of LLMs** In an era where AI systems are increasingly integrated into critical applications, the robustness and security of these models are paramount. We are pioneering research into the adversarial robustness of generative models, investigating how LLMs can be fortified against manipulation and adversarial attacks. Our work explores advanced techniques to detect, mitigate, and defend against these vulnerabilities, ensuring that LLMs are not only powerful but also resilient and trustworthy in real-world applications.
 
@@ -26,4 +26,4 @@ Our lab is at the cutting edge of Large Language Models (LLMs) research, focusin
 - Creating scalable architectures that balance performance with transparency.
 - Exploring the ethical implications of LLM deployment in various industries.
 
-We are excited about the future of LLMs and the potential they hold for transforming how we interact with technology and each other. Our lab remains dedicated to advancing the state-of-the-art in AI, with a focus on creating robust, reliable, and ethically sound language technologies.
+We are excited about the future of LLMs and the potential they hold for transforming how we interact with technology and each other. Our lab remains dedicated to advancing the state-of-the-art in AI, with a focus on creating robust, reliable, and ethically sound language technologies. -->
