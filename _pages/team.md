@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Students
+## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -163,17 +163,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
-## Former Visitors
+<!-- ## Former Visitors
 <div class="row">
 
-  <div class="col-sm-4 clearfix">
+  <div class="col-sm-4 clearfix"> -->
   <!-- <h4>Visitors</h4> -->
-  {% for member in site.data.alumni_visitors %}
+  <!-- {% for member in site.data.alumni_visitors %}
   {{ member.name }}
   {% endfor %}
-  </div>
+  </div> -->
 
 <!-- <div class="col-sm-4 clearfix">
 <h4>Master students</h4>

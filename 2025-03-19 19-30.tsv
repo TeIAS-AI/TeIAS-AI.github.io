@@ -1,0 +1,120 @@
+start	end	text
+0	2000	You
+30000	32000	You
+60000	62000	You
+90000	92000	You
+120000	122000	You
+150000	152000	You
+180000	190000	You
+190000	196000	You
+196500	204000	You know after watching those lectures I have downloaded it before I tried to you know
+204000	216000	How the remaining the problem says and after that I tried to learn some more about the biosatifs lectures in Shikon University.
+216000	230000	But when I tried to review those you know slides and materials I found that if I have access to some video lectures it may be helpful.
+230000	238000	You know the lecture you provided me for some some lecture.
+238000	250000	There wasn't any lecture videos or you also have access to some problems as though they don't have any solution.
+250000	264000	And I wanted to somehow become more in touch and learn more about which sources at the time.
+264000	274000	Um, yeah, I mean those are old lecture notes. It's not going to be any videos.
+274000	280000	Yeah, I don't know. I don't know if there are any video lectures about that topic really.
+280000	284000	Maybe there are, but I don't know very.
+284000	294000	You can always read papers as well. You know there are papers cited in the lecture notes. I think I also told you some papers to occur.
+294000	310000	You know, I here is the paper you provided. I for the landed in algorithm I tried to download a paper which was for the four or three days ago.
+310000	318000	And also I tried to learn more about the relationship in, you know, even Markov model.
+318000	324000	And it was on the lying algorithm notion in standard in algorithm.
+324000	338000	But I think there may be some new approach for new version of the algorithm or is it not readable and which is more efficiently commented.
+338000	346000	That's why I'm trying to find something very.
+346000	360000	Yeah, I think I gave you one of the more recent papers with group react. Let me see if we got that.
+360000	374000	There's nothing wrong with old papers. You know sometimes the best exposition of an algorithm is in the original paper.
+374000	386000	Yeah, this is paper as well, which is a bit more recent. Actually, the first author is the chair of the human genetics department, UCLA, unit crew back.
+386000	403000	But they use discrete, the Fourier transform to introduce the computational demands of the landed green algorithm which is going to ingenious idea.
+403000	421000	I didn't know if I have access paper. You're telling me they're using something like FST to tackle the green algorithm.
+421000	431000	They're using a fast Fourier transform.
+431000	439000	And they are somehow related to our future work.
+439000	456000	Yes, you know, people who are working on signal processing and DSP of signal processing are more interested in fast Fourier transform and people who are working vision models.
+456000	462000	I don't know why, but they are more interested in using those models and those tech.
+462000	483000	But when we are thinking of a hidden markup model processing and a process of information and people with background in machine learning are more interested in something like RNN, the current neural network and also
+483000	491000	essentially some plus, as we already talked about, known as transformers.
+491000	509000	But if someone use some version of a fast Fourier transformers, we may get some more information about by reading the paper and
+510000	517000	at the same time, I'm reading the abstract and find what how they are using it.
+517000	537000	Yes, I agree. That's sort of my original idea was to use either recurring neural networks or transform architecture or something like that to do even better or faster or efficient version of the landed green algorithm.
+538000	543000	Yeah, he needs to understand the algorithm first.
+543000	560000	You know, I'm trying to learn more about the algorithm at the time, I know somehow they are related to either markup model, but he the markup model they are trying to predict some of, you know, probability for the next generation.
+560000	570000	They are somehow some kind of tree as a president, which they're in.
+570000	580000	Andro courses about our last session.
+580000	584000	Sorry, what do you mean?
+585000	600000	Androial lectures in RSF propose some kind of a piece, which was down as a decree, some correct.
+601000	616000	And at the time, I think we want to use some problems like in a markup model, predict the ability of next generation considering those information.
+616000	622000	Yeah.
+622000	634000	Yeah, yeah, I mean, the, the, the landed green algorithm is somewhat like that in that, but it's doing it at the level of the genome or the chromosome.
+634000	649000	Yeah, so it's basically a sort of tree like model for the joint probability distribution of an asset of genetic markers in a pedigree.
+649000	661000	So the pedigree imposes a kind of markup structure, which is why the hit markup model is an appropriate probabilistic model.
+662000	679000	But I don't know how we want to, you know, I don't know how you think of recurrent neural network to take places in a pedigree markup model or replace somehow a pedigree markup model.
+680000	692000	I can understand which input you want to use in the other sequence of input for R&N.
+692000	706000	Well, I think you're getting ahead of yourself, maybe just, I think just try and, try and understand the algorithm first, and then we can worry about how we're going to tackle it, you know.
+706000	709000	Okay.
+709000	712000	Have a look at this.
+712000	731000	This paper is only made. This is more readable. It's from 2005. So it's a bit more recent and it has some stuff that landed green algorithm and trying to make it work for more modern kind of genotype data.
+731000	740000	Okay, but, you know, if you don't have a previous paper, can you?
+740000	743000	This one is open access.
+743000	746000	The second was open.
+746000	753000	The previous one, I can see if I can download it. I can't download it right the second myself actually.
+753000	756000	Can you send it to me?
+756000	761000	Can you download and send it to the PDF for me?
+761000	764000	Yeah, I'll try to.
+764000	770000	I'm talking about the pattern of multipoint linkage analysis.
+770000	778000	Yeah, yeah.
+778000	790000	Let me ask you a question about the user job is we are transforming in analyzing the information.
+790000	797000	You know, they're not talking about it.
+797000	804000	We're talking about this information.
+804000	812000	In each place, in each position of EG or S.A.
+813000	820000	We have some history values that continues.
+820000	829000	Then we are of a genome of DNA as a sequence.
+829000	835000	Yeah, yeah, well, it's distribution over a finite alphabet.
+835000	838000	I want to be more accurate.
+838000	851000	We somehow have a sequence of length is three about three billion and each position is we have four possibilities.
+851000	854000	Yes, yes.
+854000	859000	If you're talking about a single half lower age, although we see an individual has a statewide.
+859000	866000	So they have to seek two genome sequences one from another one from the father.
+866000	878000	Okay, so you know, I might have asked their studies last years of my bachelor's studies.
+878000	886000	I take it on the sheet of processes for and in no form and have some information.
+886000	893000	Okay, we use those for continuous values.
+893000	897000	For example, the signal of our speech.
+897000	905000	The wave and as a wave, it has a continuous anticon, continuous values, minus one and one.
+905000	911000	Okay, but when we are talking about history, it's valid.
+912000	916000	I have a list of my knowledge and the two things.
+916000	922000	Okay, we can use this version of the known as FFT.
+922000	927000	But I'm not sure if I have any.
+927000	931000	About how to use.
+931000	935000	For truth, they're more about the.
+936000	939000	Yeah, yeah.
+939000	942000	Well, that's kind of the point about paper in a way.
+942000	947000	If it was completely obvious, then it wouldn't be an influential paper.
+947000	955000	You know, you've already have read the paper and have information about this.
+955000	957000	Yeah, really a long time ago.
+957000	964000	And if I remember it in much detail to be honest, I remember thinking it was a cover idea at the time.
+964000	971000	You know, Eric Lander comes from the mathematics background and somehow.
+971000	973000	Somehow it's interesting.
+973000	981000	Just read some paper from him in biology, which has some notion in math.
+981000	991000	I'll probably make sure to read all the papers for our next.
+991000	994000	Yeah, yeah, I would worry too much about the Fourier transform.
+994000	997000	I mean, it's, I think it's, it's an idea we might want to use.
+997000	998000	We might not.
+998000	1001000	I'm not sure yet, you know.
+1001000	1007000	It seems to make the original and agreeing algorithm more efficient.
+1007000	1016000	I mean, maybe it's in some sense a way of compressing the state space to make the computations more efficient.
+1016000	1025000	So that might be useful, even if we're using a different approach than a hit Markov model.
+1025000	1034000	Because there's still going to be a very large state space to consider.
+1034000	1049000	Even, even when we are, we are think of it as a, a, a, a, when we are think of this new version, which is based on a Fourier transformer.
+1049000	1058000	Yeah, well, I don't think the Fourier trans, the Fourier transform doesn't change the exponential complexity.
+1058000	1063000	If the vine degree algorithm, if I remember correctly, although I don't remember in a lot of detail.
+1063000	1066000	It just means you can ignore.
+1066000	1077000	I think it's, if I remember correctly, so basically the land degree algorithm is exponential and number of haploid sequences.
+1077000	1082000	So it's like two to the power of whatever.
+1082000	1088000	Two to the power of the number of haploid sequences times the length of the, the genome.
+1088000	1105000	So, you know, if you have a lot of, um, if you have a lot of, if you have a large pedigree and you have, um, a lot of markers, genetic markers, then that's a huge space, really, a possible inheritance factors.
+1105000	1111000	But some of them are much less likely than others.
+1111000	1131000	And I think what the, if I remember correctly, um, what the Fourier transform does is it enables you to sort of ignore, um, ignore a lot of the state space that is basically the same.
+1131000	1138000	To some kind of group transformation select some kind of symmetry.
+1138000	1153000	It's exploiting some kind of symmetry in the space space to reduce the, um, number of computations, one has to perform by sort of constant, some sort of a constant factor, but it's not changing the complexity class.
+1153000	1169000	So you still have an exponentially large state space, but you're only looking at some fraction of it instead of the whole of it in the naive implementation of the H man.
+1169000	1176000	And by doing so, it somehow reduced the state spaces.
+1176000	1183000	And by doing so, it somehow reduced the state spaces.

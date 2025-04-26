@@ -1,0 +1,476 @@
+1
+00:00:00,000 --> 00:00:02,000
+You
+
+2
+00:00:30,000 --> 00:00:32,000
+You
+
+3
+00:01:00,000 --> 00:01:02,000
+You
+
+4
+00:01:30,000 --> 00:01:32,000
+You
+
+5
+00:02:00,000 --> 00:02:02,000
+You
+
+6
+00:02:30,000 --> 00:02:32,000
+You
+
+7
+00:03:00,000 --> 00:03:10,000
+You
+
+8
+00:03:10,000 --> 00:03:16,000
+You
+
+9
+00:03:16,500 --> 00:03:24,000
+You know after watching those lectures I have downloaded it before I tried to you know
+
+10
+00:03:24,000 --> 00:03:36,000
+How the remaining the problem says and after that I tried to learn some more about the biosatifs lectures in Shikon University.
+
+11
+00:03:36,000 --> 00:03:50,000
+But when I tried to review those you know slides and materials I found that if I have access to some video lectures it may be helpful.
+
+12
+00:03:50,000 --> 00:03:58,000
+You know the lecture you provided me for some some lecture.
+
+13
+00:03:58,000 --> 00:04:10,000
+There wasn't any lecture videos or you also have access to some problems as though they don't have any solution.
+
+14
+00:04:10,000 --> 00:04:24,000
+And I wanted to somehow become more in touch and learn more about which sources at the time.
+
+15
+00:04:24,000 --> 00:04:34,000
+Um, yeah, I mean those are old lecture notes. It's not going to be any videos.
+
+16
+00:04:34,000 --> 00:04:40,000
+Yeah, I don't know. I don't know if there are any video lectures about that topic really.
+
+17
+00:04:40,000 --> 00:04:44,000
+Maybe there are, but I don't know very.
+
+18
+00:04:44,000 --> 00:04:54,000
+You can always read papers as well. You know there are papers cited in the lecture notes. I think I also told you some papers to occur.
+
+19
+00:04:54,000 --> 00:05:10,000
+You know, I here is the paper you provided. I for the landed in algorithm I tried to download a paper which was for the four or three days ago.
+
+20
+00:05:10,000 --> 00:05:18,000
+And also I tried to learn more about the relationship in, you know, even Markov model.
+
+21
+00:05:18,000 --> 00:05:24,000
+And it was on the lying algorithm notion in standard in algorithm.
+
+22
+00:05:24,000 --> 00:05:38,000
+But I think there may be some new approach for new version of the algorithm or is it not readable and which is more efficiently commented.
+
+23
+00:05:38,000 --> 00:05:46,000
+That's why I'm trying to find something very.
+
+24
+00:05:46,000 --> 00:06:00,000
+Yeah, I think I gave you one of the more recent papers with group react. Let me see if we got that.
+
+25
+00:06:00,000 --> 00:06:14,000
+There's nothing wrong with old papers. You know sometimes the best exposition of an algorithm is in the original paper.
+
+26
+00:06:14,000 --> 00:06:26,000
+Yeah, this is paper as well, which is a bit more recent. Actually, the first author is the chair of the human genetics department, UCLA, unit crew back.
+
+27
+00:06:26,000 --> 00:06:43,000
+But they use discrete, the Fourier transform to introduce the computational demands of the landed green algorithm which is going to ingenious idea.
+
+28
+00:06:43,000 --> 00:07:01,000
+I didn't know if I have access paper. You're telling me they're using something like FST to tackle the green algorithm.
+
+29
+00:07:01,000 --> 00:07:11,000
+They're using a fast Fourier transform.
+
+30
+00:07:11,000 --> 00:07:19,000
+And they are somehow related to our future work.
+
+31
+00:07:19,000 --> 00:07:36,000
+Yes, you know, people who are working on signal processing and DSP of signal processing are more interested in fast Fourier transform and people who are working vision models.
+
+32
+00:07:36,000 --> 00:07:42,000
+I don't know why, but they are more interested in using those models and those tech.
+
+33
+00:07:42,000 --> 00:08:03,000
+But when we are thinking of a hidden markup model processing and a process of information and people with background in machine learning are more interested in something like RNN, the current neural network and also
+
+34
+00:08:03,000 --> 00:08:11,000
+essentially some plus, as we already talked about, known as transformers.
+
+35
+00:08:11,000 --> 00:08:29,000
+But if someone use some version of a fast Fourier transformers, we may get some more information about by reading the paper and
+
+36
+00:08:30,000 --> 00:08:37,000
+at the same time, I'm reading the abstract and find what how they are using it.
+
+37
+00:08:37,000 --> 00:08:57,000
+Yes, I agree. That's sort of my original idea was to use either recurring neural networks or transform architecture or something like that to do even better or faster or efficient version of the landed green algorithm.
+
+38
+00:08:58,000 --> 00:09:03,000
+Yeah, he needs to understand the algorithm first.
+
+39
+00:09:03,000 --> 00:09:20,000
+You know, I'm trying to learn more about the algorithm at the time, I know somehow they are related to either markup model, but he the markup model they are trying to predict some of, you know, probability for the next generation.
+
+40
+00:09:20,000 --> 00:09:30,000
+They are somehow some kind of tree as a president, which they're in.
+
+41
+00:09:30,000 --> 00:09:40,000
+Andro courses about our last session.
+
+42
+00:09:40,000 --> 00:09:44,000
+Sorry, what do you mean?
+
+43
+00:09:45,000 --> 00:10:00,000
+Androial lectures in RSF propose some kind of a piece, which was down as a decree, some correct.
+
+44
+00:10:01,000 --> 00:10:16,000
+And at the time, I think we want to use some problems like in a markup model, predict the ability of next generation considering those information.
+
+45
+00:10:16,000 --> 00:10:22,000
+Yeah.
+
+46
+00:10:22,000 --> 00:10:34,000
+Yeah, yeah, I mean, the, the, the landed green algorithm is somewhat like that in that, but it's doing it at the level of the genome or the chromosome.
+
+47
+00:10:34,000 --> 00:10:49,000
+Yeah, so it's basically a sort of tree like model for the joint probability distribution of an asset of genetic markers in a pedigree.
+
+48
+00:10:49,000 --> 00:11:01,000
+So the pedigree imposes a kind of markup structure, which is why the hit markup model is an appropriate probabilistic model.
+
+49
+00:11:02,000 --> 00:11:19,000
+But I don't know how we want to, you know, I don't know how you think of recurrent neural network to take places in a pedigree markup model or replace somehow a pedigree markup model.
+
+50
+00:11:20,000 --> 00:11:32,000
+I can understand which input you want to use in the other sequence of input for R&N.
+
+51
+00:11:32,000 --> 00:11:46,000
+Well, I think you're getting ahead of yourself, maybe just, I think just try and, try and understand the algorithm first, and then we can worry about how we're going to tackle it, you know.
+
+52
+00:11:46,000 --> 00:11:49,000
+Okay.
+
+53
+00:11:49,000 --> 00:11:52,000
+Have a look at this.
+
+54
+00:11:52,000 --> 00:12:11,000
+This paper is only made. This is more readable. It's from 2005. So it's a bit more recent and it has some stuff that landed green algorithm and trying to make it work for more modern kind of genotype data.
+
+55
+00:12:11,000 --> 00:12:20,000
+Okay, but, you know, if you don't have a previous paper, can you?
+
+56
+00:12:20,000 --> 00:12:23,000
+This one is open access.
+
+57
+00:12:23,000 --> 00:12:26,000
+The second was open.
+
+58
+00:12:26,000 --> 00:12:33,000
+The previous one, I can see if I can download it. I can't download it right the second myself actually.
+
+59
+00:12:33,000 --> 00:12:36,000
+Can you send it to me?
+
+60
+00:12:36,000 --> 00:12:41,000
+Can you download and send it to the PDF for me?
+
+61
+00:12:41,000 --> 00:12:44,000
+Yeah, I'll try to.
+
+62
+00:12:44,000 --> 00:12:50,000
+I'm talking about the pattern of multipoint linkage analysis.
+
+63
+00:12:50,000 --> 00:12:58,000
+Yeah, yeah.
+
+64
+00:12:58,000 --> 00:13:10,000
+Let me ask you a question about the user job is we are transforming in analyzing the information.
+
+65
+00:13:10,000 --> 00:13:17,000
+You know, they're not talking about it.
+
+66
+00:13:17,000 --> 00:13:24,000
+We're talking about this information.
+
+67
+00:13:24,000 --> 00:13:32,000
+In each place, in each position of EG or S.A.
+
+68
+00:13:33,000 --> 00:13:40,000
+We have some history values that continues.
+
+69
+00:13:40,000 --> 00:13:49,000
+Then we are of a genome of DNA as a sequence.
+
+70
+00:13:49,000 --> 00:13:55,000
+Yeah, yeah, well, it's distribution over a finite alphabet.
+
+71
+00:13:55,000 --> 00:13:58,000
+I want to be more accurate.
+
+72
+00:13:58,000 --> 00:14:11,000
+We somehow have a sequence of length is three about three billion and each position is we have four possibilities.
+
+73
+00:14:11,000 --> 00:14:14,000
+Yes, yes.
+
+74
+00:14:14,000 --> 00:14:19,000
+If you're talking about a single half lower age, although we see an individual has a statewide.
+
+75
+00:14:19,000 --> 00:14:26,000
+So they have to seek two genome sequences one from another one from the father.
+
+76
+00:14:26,000 --> 00:14:38,000
+Okay, so you know, I might have asked their studies last years of my bachelor's studies.
+
+77
+00:14:38,000 --> 00:14:46,000
+I take it on the sheet of processes for and in no form and have some information.
+
+78
+00:14:46,000 --> 00:14:53,000
+Okay, we use those for continuous values.
+
+79
+00:14:53,000 --> 00:14:57,000
+For example, the signal of our speech.
+
+80
+00:14:57,000 --> 00:15:05,000
+The wave and as a wave, it has a continuous anticon, continuous values, minus one and one.
+
+81
+00:15:05,000 --> 00:15:11,000
+Okay, but when we are talking about history, it's valid.
+
+82
+00:15:12,000 --> 00:15:16,000
+I have a list of my knowledge and the two things.
+
+83
+00:15:16,000 --> 00:15:22,000
+Okay, we can use this version of the known as FFT.
+
+84
+00:15:22,000 --> 00:15:27,000
+But I'm not sure if I have any.
+
+85
+00:15:27,000 --> 00:15:31,000
+About how to use.
+
+86
+00:15:31,000 --> 00:15:35,000
+For truth, they're more about the.
+
+87
+00:15:36,000 --> 00:15:39,000
+Yeah, yeah.
+
+88
+00:15:39,000 --> 00:15:42,000
+Well, that's kind of the point about paper in a way.
+
+89
+00:15:42,000 --> 00:15:47,000
+If it was completely obvious, then it wouldn't be an influential paper.
+
+90
+00:15:47,000 --> 00:15:55,000
+You know, you've already have read the paper and have information about this.
+
+91
+00:15:55,000 --> 00:15:57,000
+Yeah, really a long time ago.
+
+92
+00:15:57,000 --> 00:16:04,000
+And if I remember it in much detail to be honest, I remember thinking it was a cover idea at the time.
+
+93
+00:16:04,000 --> 00:16:11,000
+You know, Eric Lander comes from the mathematics background and somehow.
+
+94
+00:16:11,000 --> 00:16:13,000
+Somehow it's interesting.
+
+95
+00:16:13,000 --> 00:16:21,000
+Just read some paper from him in biology, which has some notion in math.
+
+96
+00:16:21,000 --> 00:16:31,000
+I'll probably make sure to read all the papers for our next.
+
+97
+00:16:31,000 --> 00:16:34,000
+Yeah, yeah, I would worry too much about the Fourier transform.
+
+98
+00:16:34,000 --> 00:16:37,000
+I mean, it's, I think it's, it's an idea we might want to use.
+
+99
+00:16:37,000 --> 00:16:38,000
+We might not.
+
+100
+00:16:38,000 --> 00:16:41,000
+I'm not sure yet, you know.
+
+101
+00:16:41,000 --> 00:16:47,000
+It seems to make the original and agreeing algorithm more efficient.
+
+102
+00:16:47,000 --> 00:16:56,000
+I mean, maybe it's in some sense a way of compressing the state space to make the computations more efficient.
+
+103
+00:16:56,000 --> 00:17:05,000
+So that might be useful, even if we're using a different approach than a hit Markov model.
+
+104
+00:17:05,000 --> 00:17:14,000
+Because there's still going to be a very large state space to consider.
+
+105
+00:17:14,000 --> 00:17:29,000
+Even, even when we are, we are think of it as a, a, a, a, when we are think of this new version, which is based on a Fourier transformer.
+
+106
+00:17:29,000 --> 00:17:38,000
+Yeah, well, I don't think the Fourier trans, the Fourier transform doesn't change the exponential complexity.
+
+107
+00:17:38,000 --> 00:17:43,000
+If the vine degree algorithm, if I remember correctly, although I don't remember in a lot of detail.
+
+108
+00:17:43,000 --> 00:17:46,000
+It just means you can ignore.
+
+109
+00:17:46,000 --> 00:17:57,000
+I think it's, if I remember correctly, so basically the land degree algorithm is exponential and number of haploid sequences.
+
+110
+00:17:57,000 --> 00:18:02,000
+So it's like two to the power of whatever.
+
+111
+00:18:02,000 --> 00:18:08,000
+Two to the power of the number of haploid sequences times the length of the, the genome.
+
+112
+00:18:08,000 --> 00:18:25,000
+So, you know, if you have a lot of, um, if you have a lot of, if you have a large pedigree and you have, um, a lot of markers, genetic markers, then that's a huge space, really, a possible inheritance factors.
+
+113
+00:18:25,000 --> 00:18:31,000
+But some of them are much less likely than others.
+
+114
+00:18:31,000 --> 00:18:51,000
+And I think what the, if I remember correctly, um, what the Fourier transform does is it enables you to sort of ignore, um, ignore a lot of the state space that is basically the same.
+
+115
+00:18:51,000 --> 00:18:58,000
+To some kind of group transformation select some kind of symmetry.
+
+116
+00:18:58,000 --> 00:19:13,000
+It's exploiting some kind of symmetry in the space space to reduce the, um, number of computations, one has to perform by sort of constant, some sort of a constant factor, but it's not changing the complexity class.
+
+117
+00:19:13,000 --> 00:19:29,000
+So you still have an exponentially large state space, but you're only looking at some fraction of it instead of the whole of it in the naive implementation of the H man.
+
+118
+00:19:29,000 --> 00:19:36,000
+And by doing so, it somehow reduced the state spaces.
+
+119
+00:19:36,000 --> 00:19:43,000
+And by doing so, it somehow reduced the state spaces.
+

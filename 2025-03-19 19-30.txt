@@ -1,0 +1,119 @@
+You
+You
+You
+You
+You
+You
+You
+You
+You know after watching those lectures I have downloaded it before I tried to you know
+How the remaining the problem says and after that I tried to learn some more about the biosatifs lectures in Shikon University.
+But when I tried to review those you know slides and materials I found that if I have access to some video lectures it may be helpful.
+You know the lecture you provided me for some some lecture.
+There wasn't any lecture videos or you also have access to some problems as though they don't have any solution.
+And I wanted to somehow become more in touch and learn more about which sources at the time.
+Um, yeah, I mean those are old lecture notes. It's not going to be any videos.
+Yeah, I don't know. I don't know if there are any video lectures about that topic really.
+Maybe there are, but I don't know very.
+You can always read papers as well. You know there are papers cited in the lecture notes. I think I also told you some papers to occur.
+You know, I here is the paper you provided. I for the landed in algorithm I tried to download a paper which was for the four or three days ago.
+And also I tried to learn more about the relationship in, you know, even Markov model.
+And it was on the lying algorithm notion in standard in algorithm.
+But I think there may be some new approach for new version of the algorithm or is it not readable and which is more efficiently commented.
+That's why I'm trying to find something very.
+Yeah, I think I gave you one of the more recent papers with group react. Let me see if we got that.
+There's nothing wrong with old papers. You know sometimes the best exposition of an algorithm is in the original paper.
+Yeah, this is paper as well, which is a bit more recent. Actually, the first author is the chair of the human genetics department, UCLA, unit crew back.
+But they use discrete, the Fourier transform to introduce the computational demands of the landed green algorithm which is going to ingenious idea.
+I didn't know if I have access paper. You're telling me they're using something like FST to tackle the green algorithm.
+They're using a fast Fourier transform.
+And they are somehow related to our future work.
+Yes, you know, people who are working on signal processing and DSP of signal processing are more interested in fast Fourier transform and people who are working vision models.
+I don't know why, but they are more interested in using those models and those tech.
+But when we are thinking of a hidden markup model processing and a process of information and people with background in machine learning are more interested in something like RNN, the current neural network and also
+essentially some plus, as we already talked about, known as transformers.
+But if someone use some version of a fast Fourier transformers, we may get some more information about by reading the paper and
+at the same time, I'm reading the abstract and find what how they are using it.
+Yes, I agree. That's sort of my original idea was to use either recurring neural networks or transform architecture or something like that to do even better or faster or efficient version of the landed green algorithm.
+Yeah, he needs to understand the algorithm first.
+You know, I'm trying to learn more about the algorithm at the time, I know somehow they are related to either markup model, but he the markup model they are trying to predict some of, you know, probability for the next generation.
+They are somehow some kind of tree as a president, which they're in.
+Andro courses about our last session.
+Sorry, what do you mean?
+Androial lectures in RSF propose some kind of a piece, which was down as a decree, some correct.
+And at the time, I think we want to use some problems like in a markup model, predict the ability of next generation considering those information.
+Yeah.
+Yeah, yeah, I mean, the, the, the landed green algorithm is somewhat like that in that, but it's doing it at the level of the genome or the chromosome.
+Yeah, so it's basically a sort of tree like model for the joint probability distribution of an asset of genetic markers in a pedigree.
+So the pedigree imposes a kind of markup structure, which is why the hit markup model is an appropriate probabilistic model.
+But I don't know how we want to, you know, I don't know how you think of recurrent neural network to take places in a pedigree markup model or replace somehow a pedigree markup model.
+I can understand which input you want to use in the other sequence of input for R&N.
+Well, I think you're getting ahead of yourself, maybe just, I think just try and, try and understand the algorithm first, and then we can worry about how we're going to tackle it, you know.
+Okay.
+Have a look at this.
+This paper is only made. This is more readable. It's from 2005. So it's a bit more recent and it has some stuff that landed green algorithm and trying to make it work for more modern kind of genotype data.
+Okay, but, you know, if you don't have a previous paper, can you?
+This one is open access.
+The second was open.
+The previous one, I can see if I can download it. I can't download it right the second myself actually.
+Can you send it to me?
+Can you download and send it to the PDF for me?
+Yeah, I'll try to.
+I'm talking about the pattern of multipoint linkage analysis.
+Yeah, yeah.
+Let me ask you a question about the user job is we are transforming in analyzing the information.
+You know, they're not talking about it.
+We're talking about this information.
+In each place, in each position of EG or S.A.
+We have some history values that continues.
+Then we are of a genome of DNA as a sequence.
+Yeah, yeah, well, it's distribution over a finite alphabet.
+I want to be more accurate.
+We somehow have a sequence of length is three about three billion and each position is we have four possibilities.
+Yes, yes.
+If you're talking about a single half lower age, although we see an individual has a statewide.
+So they have to seek two genome sequences one from another one from the father.
+Okay, so you know, I might have asked their studies last years of my bachelor's studies.
+I take it on the sheet of processes for and in no form and have some information.
+Okay, we use those for continuous values.
+For example, the signal of our speech.
+The wave and as a wave, it has a continuous anticon, continuous values, minus one and one.
+Okay, but when we are talking about history, it's valid.
+I have a list of my knowledge and the two things.
+Okay, we can use this version of the known as FFT.
+But I'm not sure if I have any.
+About how to use.
+For truth, they're more about the.
+Yeah, yeah.
+Well, that's kind of the point about paper in a way.
+If it was completely obvious, then it wouldn't be an influential paper.
+You know, you've already have read the paper and have information about this.
+Yeah, really a long time ago.
+And if I remember it in much detail to be honest, I remember thinking it was a cover idea at the time.
+You know, Eric Lander comes from the mathematics background and somehow.
+Somehow it's interesting.
+Just read some paper from him in biology, which has some notion in math.
+I'll probably make sure to read all the papers for our next.
+Yeah, yeah, I would worry too much about the Fourier transform.
+I mean, it's, I think it's, it's an idea we might want to use.
+We might not.
+I'm not sure yet, you know.
+It seems to make the original and agreeing algorithm more efficient.
+I mean, maybe it's in some sense a way of compressing the state space to make the computations more efficient.
+So that might be useful, even if we're using a different approach than a hit Markov model.
+Because there's still going to be a very large state space to consider.
+Even, even when we are, we are think of it as a, a, a, a, when we are think of this new version, which is based on a Fourier transformer.
+Yeah, well, I don't think the Fourier trans, the Fourier transform doesn't change the exponential complexity.
+If the vine degree algorithm, if I remember correctly, although I don't remember in a lot of detail.
+It just means you can ignore.
+I think it's, if I remember correctly, so basically the land degree algorithm is exponential and number of haploid sequences.
+So it's like two to the power of whatever.
+Two to the power of the number of haploid sequences times the length of the, the genome.
+So, you know, if you have a lot of, um, if you have a lot of, if you have a large pedigree and you have, um, a lot of markers, genetic markers, then that's a huge space, really, a possible inheritance factors.
+But some of them are much less likely than others.
+And I think what the, if I remember correctly, um, what the Fourier transform does is it enables you to sort of ignore, um, ignore a lot of the state space that is basically the same.
+To some kind of group transformation select some kind of symmetry.
+It's exploiting some kind of symmetry in the space space to reduce the, um, number of computations, one has to perform by sort of constant, some sort of a constant factor, but it's not changing the complexity class.
+So you still have an exponentially large state space, but you're only looking at some fraction of it instead of the whole of it in the naive implementation of the H man.
+And by doing so, it somehow reduced the state spaces.
+And by doing so, it somehow reduced the state spaces.

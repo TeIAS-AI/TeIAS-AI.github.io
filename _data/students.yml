@@ -19,6 +19,13 @@
   number_educ: 1
   education1: M.S. with Dr. Pilehvar at TeIAS
 
+- name: Peyman Naseri
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Bahrak at TeIAS
+
 - name: Armin Tourajmehr
   photo: rock.jpg
   info:
@@ -33,5 +40,79 @@
   number_educ: 1
   education1: M.S. with Dr. Yaghoobzadeh at TeIAS
 
+- name: Mohammad Ali Yousefzadeh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Bahrak at TeIAS
 
+- name: Ali Zahedzadeh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: M.S. with Dr. Bahrak at TeIAS
 
+- name: Zahra Sadat Delbari
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Zahra Habibzadeh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Paria Khoshtab
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Seyyed Mohammad Erfan Moosavi Monazzah
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Vahid Rahimzadeh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Mahdi Zakizadeh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Assistant at TeIAS
+
+- name: Mostafa Masoudi
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Former Research Assistant at TeIAS
+
+- name: Sara Rezaeimanesh
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Former Research Assistant at TeIAS (now Ph.D. student at Michigan State University)
+
+- name: Mohammad Akbari
+  photo: rock.jpg
+  info:
+  email:
+  number_educ: 1
+  education1: Research Lab Manager at TeIAS
