@@ -1,3 +1,13 @@
+- title: "Comparative Study of Multilingual Idioms and Similes in Large Language Models"
+  image: rock.jpg
+  description: ""
+  authors: "**Paria Khoshtab**, Danial Namazifard, **Mostafa Masoudi**, Ali Akhgary, Samin Mahdizadeh Sani, **Yadollah Yaghoobzadeh**"
+  link:
+    url: https://aclanthology.org/2025.coling-main.580/
+    display: COLING 2025
+  highlight: 1
+  news1:
+
 - title: "Large Language Models for Persian ↔ English Idiom Translation"
   image: rock.jpg
   description: ""
