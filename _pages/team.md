@@ -169,14 +169,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <!-- ## Former Visitors
 <div class="row">
 
-  <div class="col-sm-4 clearfix"> -->
-  <!-- <h4>Visitors</h4> -->
-  <!-- {% for member in site.data.alumni_visitors %}
+  <div class="col-sm-4 clearfix">
+  <h4>Visitors</h4>
+  {% for member in site.data.alumni_visitors %}
   {{ member.name }}
   {% endfor %}
-  </div> -->
+  </div>
 
-<!-- <div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
@@ -188,9 +188,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div> -->
+</div>
 
-<!-- </div> -->
+</div> -->
 
 
 ### Administrative Support
