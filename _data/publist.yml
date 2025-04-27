@@ -28,16 +28,6 @@
   highlight: 1
   news1:
 
-- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
-  image: rock.jpg
-  description: ""
-  authors: "Mohammad Akbar-Tajari, **Mohammad Taher Pilehvar**"
-  link:
-    url: https://aclanthology.org/2024.findings-emnlp.1002/
-    display: EMNLP 2024 (Findings)
-  highlight: 1
-  news1:
-
 - title: "RepMatch: Quantifying Cross-Instance Similarities in Representation Space"
   image: rock.jpg
   description: ""
@@ -45,6 +35,16 @@
   link:
     url: https://aclanthology.org/2024.emnlp-main.825/
     display: EMNLP 2024
+  highlight: 1
+  news1:
+
+- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
+  image: rock.jpg
+  description: ""
+  authors: "Mohammad Akbar-Tajari, **Mohammad Taher Pilehvar**"
+  link:
+    url: https://aclanthology.org/2024.findings-emnlp.1002/
+    display: EMNLP 2024 (Findings)
   highlight: 1
   news1:
 
