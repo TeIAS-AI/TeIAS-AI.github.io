@@ -1,22 +1,37 @@
-- name: Mahdi Zakizadeh
+- name: Mostafa Masoudi
   photo: rock.jpg
-  info: M.S. student
-  duration: Jan 2020 to Sep. 2023, now Ph.D. student at Stony Brook University
-  email: 
-  number_educ: 3
-  education1: Ph.D. student at Stony Brook University
-  education2: M.S. with Dr. Pilehvar at TeIAS
-  education3: B.S. at Yazd University
+  info:
+  email:
+  number_educ: 1
+  education1: Former Research Assistant at TeIAS
 
-- name: Zahra Sadat Delbari
+- name: Sara Rezaeimanesh
   photo: rock.jpg
-  info: M.S. student
-  duration: Sep. 2021 to Sep. 2024, now Research Assistant at TeIAS
-  email: 
-  number_educ: 3
-  # education1: Ph.D. student at ?
-  education2: M.S. with Dr. Pilehvar at TeIAS
-  education3: B.S. at Sharif University of Technology
+  info:
+  email:
+  number_educ: 1
+  education1: Former Research Assistant at TeIAS (now Ph.D. student at Michigan State University)
+
+
+# - name: Mahdi Zakizadeh
+#   photo: rock.jpg
+#   info: M.S. student
+#   duration: Jan 2020 to Sep. 2023, now Ph.D. student at Stony Brook University
+#   email: 
+#   number_educ: 3
+#   education1: Ph.D. student at Stony Brook University
+#   education2: M.S. with Dr. Pilehvar at TeIAS
+#   education3: B.S. at Yazd University
+
+# - name: Zahra Sadat Delbari
+#   photo: rock.jpg
+#   info: M.S. student
+#   duration: Sep. 2021 to Sep. 2024, now Research Assistant at TeIAS
+#   email: 
+#   number_educ: 3
+#   # education1: Ph.D. student at ?
+#   education2: M.S. with Dr. Pilehvar at TeIAS
+#   education3: B.S. at Sharif University of Technology
 
 # - name: Maarten Leeuwenhoek
 #   photo: Maarten.png
