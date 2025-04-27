@@ -60,7 +60,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   </ul>
+  <ul style="overflow: hidden">
   <a href="{{ member.homepage }}">{{ Homepage }}</a>
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
