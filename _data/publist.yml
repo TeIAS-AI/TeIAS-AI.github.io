@@ -1,3 +1,43 @@
+- title: "Large Language Models for Persian ↔ English Idiom Translation"
+  image: rock.jpg
+  description: ""
+  authors: "**Sara Rezaeimanesh**, **Faezeh Hosseini**, **Yadollah Yaghoobzadeh**"
+  link:
+    url: https://2025.naacl.org/program/accepted_papers/
+    display: NAACL 2025
+  highlight: 1
+  news1:
+
+- title: "PERCUL: A Story-Driven Cultural Evaluation of LLMs in Persian"
+  image: rock.jpg
+  description: ""
+  authors: "**Erfan Moosavi Monazzah**, **Vahid Rahimzadeh**, **Yadollah Yaghoobzadeh**, Azadeh Shakery, **Mohammad Taher Pilehvar**"
+  link:
+    url: https://2025.naacl.org/program/accepted_papers/
+    display: NAACL 2025
+  highlight: 1
+  news1:
+
+- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
+  image: rock.jpg
+  description: ""
+  authors: "Mohammad Akbar-Tajari, **Mohammad Taher Pilehvar**"
+  link:
+    url: https://aclanthology.org/2024.findings-emnlp.1002/
+    display: EMNLP 2024 (Findings)
+  highlight: 1
+  news1:
+
+- title: "RepMatch: Quantifying Cross-Instance Similarities in Representation Space"
+  image: rock.jpg
+  description: ""
+  authors: "**Mohammad Reza Modarres**, **Sina Abbasi**, **Mohammad Taher Pilehvar**"
+  link:
+    url: https://aclanthology.org/2024.emnlp-main.825/
+    display: EMNLP 2024
+  highlight: 1
+  news1:
+
 - title: "Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales"
   image: Phate.png
   description: "With the alarming rise of hate speech in online communities, the demand for effective NLP models to identify instances of offensive language has reached a critical point. However, the development of such models heavily relies on the availability of annotated datasets, which are scarce, particularly for less-studied languages. To bridge this gap for the Persian language, we present a novel dataset specifcally tailored to multi-label hate speech detection. Our dataset, called *PHATE*, consists of an extensive collection of over seven thousand manually-annotated Persian tweets, offering a rich resource for training and evaluating hate speech detection models on this language. Notably, each annotation in our dataset specifes the targeted group of hate speech and includes a span of the tweet which elucidates the rationale behind the assigned label."
@@ -30,16 +70,16 @@
 #   highlight: 1
 #   news1: 
 
-- title: "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition"
-  image: DecompX.png
-  description: "An emerging solution for explaining Transformer-based models is to use vector-based analysis on how the representations are formed. However, providing a faithful vector-based explanation for a multi-layer model could be challenging in three aspects: (1) Incorporating all components into the analysis, (2) Aggregating the layer dynamics to determine the information flow and mixture throughout the entire model, and (3) Identifying the connection between the vector-based analysis and the model's predictions. In this paper, we present *DecompX* to tackle these challenges. DecompX is based on the construction of decomposed token representations and their successive propagation throughout the model without mixing them in between layers."
-  # description: "An emerging solution for explaining Transformer-based models is to use vector-based analysis on how the representations are formed. However, providing a faithful vector-based explanation for a multi-layer model could be challenging in three aspects: (1) Incorporating all components into the analysis, (2) Aggregating the layer dynamics to determine the information flow and mixture throughout the entire model, and (3) Identifying the connection between the vector-based analysis and the model's predictions. In this paper, we present *DecompX* to tackle these challenges. DecompX is based on the construction of decomposed token representations and their successive propagation throughout the model without mixing them in between layers. Additionally, our proposal provides multiple advantages over existing solutions for its inclusion of all encoder components (especially nonlinear feed-forward networks) and the classification head. The former allows acquiring precise vectors while the latter transforms the decomposition into meaningful prediction-based values, eliminating the need for norm- or summation-based vector aggregation. According to the standard faithfulness evaluations, DecompX consistently outperforms existing gradient-based and vector-based approaches on various datasets."
-  authors: "Ali Modarressi, Mohsen Fayyaz, Ehsan Aghazadeh, **Yadollah Yaghoobzadeh**, **Mohammad Taher Pilehvar**"
-  link:
-    url: https://aclanthology.org/2023.acl-long.149
-    display: ACL 2023
-  highlight: 1
-  news1: 
+# - title: "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition"
+#   image: DecompX.png
+#   description: "An emerging solution for explaining Transformer-based models is to use vector-based analysis on how the representations are formed. However, providing a faithful vector-based explanation for a multi-layer model could be challenging in three aspects: (1) Incorporating all components into the analysis, (2) Aggregating the layer dynamics to determine the information flow and mixture throughout the entire model, and (3) Identifying the connection between the vector-based analysis and the model's predictions. In this paper, we present *DecompX* to tackle these challenges. DecompX is based on the construction of decomposed token representations and their successive propagation throughout the model without mixing them in between layers."
+#   # description: "An emerging solution for explaining Transformer-based models is to use vector-based analysis on how the representations are formed. However, providing a faithful vector-based explanation for a multi-layer model could be challenging in three aspects: (1) Incorporating all components into the analysis, (2) Aggregating the layer dynamics to determine the information flow and mixture throughout the entire model, and (3) Identifying the connection between the vector-based analysis and the model's predictions. In this paper, we present *DecompX* to tackle these challenges. DecompX is based on the construction of decomposed token representations and their successive propagation throughout the model without mixing them in between layers. Additionally, our proposal provides multiple advantages over existing solutions for its inclusion of all encoder components (especially nonlinear feed-forward networks) and the classification head. The former allows acquiring precise vectors while the latter transforms the decomposition into meaningful prediction-based values, eliminating the need for norm- or summation-based vector aggregation. According to the standard faithfulness evaluations, DecompX consistently outperforms existing gradient-based and vector-based approaches on various datasets."
+#   authors: "Ali Modarressi, Mohsen Fayyaz, Ehsan Aghazadeh, **Yadollah Yaghoobzadeh**, **Mohammad Taher Pilehvar**"
+#   link:
+#     url: https://aclanthology.org/2023.acl-long.149
+#     display: ACL 2023
+#   highlight: 1
+#   news1: 
 
 
 # - title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
