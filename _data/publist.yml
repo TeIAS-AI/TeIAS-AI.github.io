@@ -48,12 +48,12 @@
   highlight: 1
   news1:
 
-- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
+- title: "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT"
   image: rock.jpg
   description: ""
   authors: Amirhossein Abaskohi, Sara Baruni, **Mostafa Masoudi**, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, **Yadollah Yaghoobzadeh**
   link:
-    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TvGqaqAAAAAJ&sortby=pubdate&citation_for_view=TvGqaqAAAAAJ:1qzjygNMrQYC
+    url: https://aclanthology.org/2024.lrec-main.197/
     display: LREC-COLING
   highlight: 1
   news1:
