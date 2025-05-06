@@ -119,7 +119,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </ul>
 
   <ul style="overflow: hidden">
-  <li> [Homepage]({{ member.homepage }}) </li>
+  <li> [Personal Page]({{ member.homepage }}) </li>
   </ul>
 
 </div>
