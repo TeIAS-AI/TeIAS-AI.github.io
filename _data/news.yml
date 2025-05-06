@@ -1,5 +1,11 @@
-- date: June 2024
-  headline: Dr. Pilehvar will be a Program Co-Chair of [ACL 2025](https://2025.aclweb.org).
+- date: April 2025
+  headline: LLMs for Persian-English Idiom Translation [NAACL 2025](https://aclanthology.org/2025.naacl-long.405/).
+
+- date: April 2025
+  headline: A Story-Driven Cultural Evaluation of LLMs in Persian [NAACL 2025](https://aclanthology.org/2025.naacl-long.631/).
+
+- date: January 2025
+  headline: Comparative Study of Multilingual Idioms and Similes in LLMs [COLING 2025](https://aclanthology.org/2025.coling-main.580/).
 
 - date: June 2024
   headline: Dr. Pilehvar will be a Program Co-Chair of [ACL 2025](https://2025.aclweb.org).
@@ -7,8 +13,8 @@
 # - date: May 2024
 #   headline: New Publicly-Detectable Watermarking for LLMs unveiled [arXiv](https://arxiv.org/abs/2310.18491#).
 
-- date: April 2024
-  headline: Study benchmarks ChatGPT and other LLMs for Persian [LREC-COLING 2024](https://arxiv.org/abs/2404.02403).  ![image](/images/newspic/Persian-LLMs-Bench.png){:class="img-responsive"}
+- date: May 2024
+  headline: Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.197/).  ![image](/images/newspic/Persian-LLMs-Bench.png){:class="img-responsive"}
 
 - date: August 2023
   headline: Dr. Pilehvar's AI research wins prestigious [AIJ 2023 Prominent Paper Award](https://aij.ijcai.org/aij-awards-list-of-previous-winners).
