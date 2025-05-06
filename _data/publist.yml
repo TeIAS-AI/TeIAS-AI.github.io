@@ -48,6 +48,16 @@
   highlight: 1
   news1:
 
+- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
+  image: rock.jpg
+  description: ""
+  authors: Amirhossein Abaskohi, Sara Baruni, **Mostafa Masoudi**, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, **Yadollah Yaghoobzadeh**
+  link:
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TvGqaqAAAAAJ&sortby=pubdate&citation_for_view=TvGqaqAAAAAJ:1qzjygNMrQYC
+    display: LREC-COLING
+  highlight: 1
+  news1:
+
 - title: "Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales"
   image: Phate.png
   description: "With the alarming rise of hate speech in online communities, the demand for effective NLP models to identify instances of offensive language has reached a critical point. However, the development of such models heavily relies on the availability of annotated datasets, which are scarce, particularly for less-studied languages. To bridge this gap for the Persian language, we present a novel dataset specifcally tailored to multi-label hate speech detection. Our dataset, called *PHATE*, consists of an extensive collection of over seven thousand manually-annotated Persian tweets, offering a rich resource for training and evaluating hate speech detection models on this language. Notably, each annotation in our dataset specifes the targeted group of hate speech and includes a span of the tweet which elucidates the rationale behind the assigned label."
