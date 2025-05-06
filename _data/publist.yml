@@ -51,7 +51,7 @@
 - title: "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT"
   image: rock.jpg
   description: ""
-  authors: Amirhossein Abaskohi, Sara Baruni, **Mostafa Masoudi**, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, **Yadollah Yaghoobzadeh**
+  authors: "Amirhossein Abaskohi, Sara Baruni, **Mostafa Masoudi**, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, **Yadollah Yaghoobzadeh**"
   link:
     url: https://aclanthology.org/2024.lrec-main.197/
     display: LREC-COLING
