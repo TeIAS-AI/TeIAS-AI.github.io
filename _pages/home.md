@@ -32,7 +32,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Idioms.png" alt="Slide 2" />
         </div> -->
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DiFair.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DiFair.png" alt="Slide 0" />
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
