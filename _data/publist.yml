@@ -38,15 +38,15 @@
   highlight: 1
   news1:
 
-- title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
-  image: rock.jpg
-  description: ""
-  authors: "Mohammad Akbar-Tajari, **Mohammad Taher Pilehvar**"
-  link:
-    url: https://aclanthology.org/2024.findings-emnlp.1002/
-    display: EMNLP 2024 (Findings)
-  highlight: 1
-  news1:
+# - title: "Stochastic Fine-Tuning of Language Models Using Masked Gradients"
+#   image: rock.jpg
+#   description: ""
+#   authors: "Mohammad Akbar-Tajari, **Mohammad Taher Pilehvar**"
+#   link:
+#     url: https://aclanthology.org/2024.findings-emnlp.1002/
+#     display: EMNLP 2024 (Findings)
+#   highlight: 1
+#   news1:
 
 - title: "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT"
   image: rock.jpg
