@@ -61,10 +61,10 @@ permalink: /
 
 
 
-
+<!-- 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Khatam-logo.avif" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Khatam-logo-w.avif" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TeIAS-logo.png" style="width: 150px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
-</figure>
+</figure> -->
